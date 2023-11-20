@@ -56,7 +56,7 @@ This repository contains a Python script designed to monitor the availability of
 1. **Clone the Repository**
 
    ```pi@raspberrypi
-   sudo git clone https://github.com/[your-username]/monitor-hosts-with-raspberry-pi-4.git
+   sudo git clone https://github.com/tazrian-amin/monitor-hosts-with-raspberry-pi-4.git
    cd monitor-hosts-with-raspberry-pi-4
    ```
 
